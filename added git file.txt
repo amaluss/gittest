@@ -1,3 +1,3 @@
 added git file
 added another line to the file
-file added while inside the new_branch
+file added while inside the (same line edited in new_branch)new_branch
