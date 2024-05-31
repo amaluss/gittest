@@ -1,8 +1,0 @@
-[1mdiff --git a/added git file.txt b/added git file.txt[m
-[1mindex ea30d5b..5a07452 100644[m
-[1m--- a/added git file.txt[m	
-[1m+++ b/added git file.txt[m	
-[36m@@ -1 +1,2 @@[m
- added git file[m
-[32m+[m[32madded another line to the file[m
-\ No newline at end of file[m
